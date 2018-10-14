@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">随手记</string>
+    <string name="TitleMessage">Enter the title</string>
+</resources>
